@@ -9,7 +9,7 @@ But here is a very simple solution for this, the problem is in the file "libffmp
 It is located in the paste "/usr/lib/opera"
 
 # SOLUTION
-Enter the paste "Downloads"
+Enter the paste "Downloads"</br>
 `$cd ${HOME}/Downloads`
 
 Download "libffmpeg.so"
