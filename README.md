@@ -10,11 +10,13 @@ It is located in the paste "/usr/lib/opera"
 
 # SOLUTION
 Enter the paste "Downloads"</br>
-`$cd ${HOME}/Downloads`</br>
+`$cd {$HOME}/Downloads`</br>
 
 Download "libffmpeg.so"</br>
 `$wget https://github.com/lkaranl/opera/raw/master/opera-ffmpeg-codecs-67.0.3396.87-1-x86_64.pkg.tar.xz%3Fdl%3D0`</br>
 
+Extract</br>
+`$tar -xvf opera-ffmpeg-codecs-67.0.3396.87-1-x86_64.pkg.tar.xz\?dl=0`
 
 Copy the file "libffmpeg.so" of the extracted file to the Opera folder</br>
 `$sudo sudo cp usr/lib/opera/lib_extra/libffmpeg.so /usr/lib/opera/`</br>
