@@ -21,5 +21,4 @@ Extract</br>
 Copy the file "libffmpeg.so" of the extracted file to the Opera folder</br>
 `$sudo sudo cp usr/lib/opera/lib_extra/libffmpeg.so /usr/lib/opera/`</br>
 
-Restart Opera</br>
-
+Restart Opera
